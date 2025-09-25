@@ -11,15 +11,6 @@ This project delivers **12 interactive dashboards** with over **100 KPIs and vis
 
 ---
 
-## 📂 Repository Structure
-- **notebooks/** → Data cleaning, EDA, and visualization development.  
-- **dashboards/** → Power BI and Tableau dashboards + screenshots.  
-- **docs/** → Report and documentation (Word/PDF).  
-- **data/** → (Not included) instructions for preparing and placing datasets.  
-- **results/** → Exported figures and KPI summaries.  
-
----
-
 ## 🛠️ Tools & Technologies
 - **Python:** Pandas, NumPy, Matplotlib, Plotly  
 - **BI Tools:** Power BI, Tableau  
@@ -36,5 +27,5 @@ This project delivers **12 interactive dashboards** with over **100 KPIs and vis
 
 ## 📌 Notes
 - Data is anonymized and not included.  
-- Dashboards are provided as `.pbix` (Power BI) and `.twbx` (Tableau) files in `dashboards/`.  
+- Dashboards are provided as `.pbix` (Power BI) 
 - Screenshots included for quick review.  
